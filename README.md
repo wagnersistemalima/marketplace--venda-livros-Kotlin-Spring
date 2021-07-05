@@ -1,7 +1,7 @@
 # marketplace--venda-livros-Kotlin-Spring
 Projeto Marketplace  de venda de livros, construído com  Kotlin e Spring
 
-## Setup do Projeto - Casa do código
+## Setup do Projeto 
 
 * Linguagem de programação: Kotlin
 * Tecnologia: Spring Boot 2.3.12
